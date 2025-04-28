@@ -1,4 +1,7 @@
 # Coronavirus Tweet Sentiment Analysis
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 ## Overview
 The **Coronavirus Tweet Sentiment Analysis** project focuses on analyzing public sentiment expressed in tweets during the COVID-19 pandemic. By leveraging machine learning models, the project classifies sentiments as Positive, Neutral, or Negative, providing insights to policymakers, organizations, and businesses for informed decision-making and targeted communication strategies.
